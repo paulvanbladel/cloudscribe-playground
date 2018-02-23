@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj", "{FEB6918E-3EB0-43BE-8580-21F8C08CD5A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cloudscribe", "src\Cloudscribe\Cloudscribe.csproj", "{FB7B30C2-B4FD-4E3D-BF98-EDFE73775323}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsClient", "src\JsClient\JsClient.csproj", "{F3D937F8-43B9-42D3-A16D-0EC60F5B3B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB6918E-3EB0-43BE-8580-21F8C08CD5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB6918E-3EB0-43BE-8580-21F8C08CD5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB6918E-3EB0-43BE-8580-21F8C08CD5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB6918E-3EB0-43BE-8580-21F8C08CD5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7B30C2-B4FD-4E3D-BF98-EDFE73775323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7B30C2-B4FD-4E3D-BF98-EDFE73775323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7B30C2-B4FD-4E3D-BF98-EDFE73775323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7B30C2-B4FD-4E3D-BF98-EDFE73775323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D937F8-43B9-42D3-A16D-0EC60F5B3B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D937F8-43B9-42D3-A16D-0EC60F5B3B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D937F8-43B9-42D3-A16D-0EC60F5B3B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D937F8-43B9-42D3-A16D-0EC60F5B3B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A84B64-57D7-4BED-B7A7-3C86326BB85F}
+	EndGlobalSection
+EndGlobal

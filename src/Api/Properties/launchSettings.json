@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "StsPublicAddress": "http://localhost:5000",
+        "JsPublicAddress": "http://localhost:5002"
+      },
+      "applicationUrl": "http://localhost:5001/"
+    }
+  }
+}
